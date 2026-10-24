@@ -17,7 +17,7 @@
     "dependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ThanhDV143/ThanhDV.AudioConductor.FMOD.git"
+        "url": "git+https://github.com/ThanhDV143/AudioConductor.FMOD.git"
     },
     "license": "MIT"
 }

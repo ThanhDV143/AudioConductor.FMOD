@@ -32,7 +32,7 @@ Before using string event paths or the Editor import tools, build the FMOD banks
 Use the versioned Git URL for a reproducible installation:
 
 ~~~
-https://github.com/ThanhDV143/ThanhDV.AudioConductor.FMOD.git?path=/Assets/Packages/AudioConductor/FMOD#v3.0.0
+https://github.com/ThanhDV143/AudioConductor.FMOD.git?path=/Assets/Packages/AudioConductor/FMOD#v3.0.0
 ~~~
 
 1. Open **Window** > **Package Manager**.
