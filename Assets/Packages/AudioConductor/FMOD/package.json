@@ -1,6 +1,6 @@
 {
     "name": "thanhdv.audioconductor.fmod",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "displayName": "AudioConductor",
     "description": "Lightweight central audio controller for Unity + FMOD. Handles one-shots, music transitions, and managed looping sounds with safe async fade logic.",
     "unity": "2022.3",
